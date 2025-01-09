@@ -10,3 +10,10 @@ Update: 04-01-2025
 Update: 05-01-2025
 - I have completed the half of the "Control flow" chapter.
 - I checked if/else statements and I've learned what is a module and how to import it.
+
+Update: 08-01-2025
+- I have completed the exercise #16 from the "Control flow" chapter.
+- I Checked logical operators: AND, OR and NOT. It's good remember how to use them in Python. I like it!
+- Let's update my Github repository!
+- Note: I like how looks this emoji in the code editor 🎢 haha
+
