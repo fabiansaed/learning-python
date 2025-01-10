@@ -13,7 +13,10 @@ Update: 05-01-2025
 
 Update: 08-01-2025
 - I have completed the exercise #16 from the "Control flow" chapter.
-- I Checked logical operators: AND, OR and NOT. It's good remember how to use them in Python. I like it!
+- I checked logical operators: AND, OR and NOT. It's good remember how to use them in Python. I like it!
 - Let's update my Github repository!
 - Note: I like how looks this emoji in the code editor 🎢 haha
 
+Update: 09-01-2025
+- I had a review about 'if' statement, relational operators and logical operators coding a program about Harry Potter.
+- I read extra info about nested 'if' statements. Note: Nesting these statements too deeply (2-3 levels) isn't good!
