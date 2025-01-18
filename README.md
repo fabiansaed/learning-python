@@ -20,3 +20,7 @@ Update: 08-01-2025
 Update: 09-01-2025
 - I had a review about 'if' statement, relational operators and logical operators coding a program about Harry Potter.
 - I read extra info about nested 'if' statements. Note: Nesting these statements too deeply (2-3 levels) isn't good!
+
+Update: 18-01-2025
+- I have completed the challenge pack coding the five exercises about control flow.
+- It took me around 1 hour. I think I did it good!
