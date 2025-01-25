@@ -24,3 +24,8 @@ Update: 09-01-2025
 Update: 18-01-2025
 - I have completed the challenge pack coding the five exercises about control flow.
 - It took me around 1 hour. I think I did it good!
+
+Update: 25-01-2025
+- I completed all the exercises frome the chapter that were focus on loops as 'while' and 'for'.
+- There is one of the most difficult topics when I'm checking again a language. Specially talking about nested loops.
+- I read the bonus article. The next step is complete the five challenge pack exercises.
